@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="addconatact">Add New Contact</string>
+    <string name="add">Add contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_disp">Contacts</string>
+    <string name="title_activity_display">Contacts</string>
+    <string name="call">Phone</string>
+    <string name="email">Mail</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="edittext">Edit</string>
+    <string name="editusertext">Edit</string>
+    <string name="namehint">Edit Name</string>
+    <string name="numhint">Edit Number</string>
+    <string name="emailhint">Edit Email</string>
+    <string name="usernamefile">username_file.txt</string>
+    <string name="usernumberfile">usernumber_file.txt</string>
+    <string name="useremailfile">useremail_file.txt</string>
+</resources>
